@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snishant011&label=Profile%20views&color=0e75b6&style=flat" alt="snishant011" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snishant011" alt="snishant011" /></a> </p>
-<p align="right"><a align="right" href="https://app.daily.dev/snishant011"><img src="https://api.daily.dev/devcards/79ff5d25ea034639b8ec5bf38b54009a.png?r=91y" width="400" alt="Nishant Shrestha's Dev Card"/></a></p>
+
 - 🌱 I’m currently learning **Node JS (MERN Stack)**
 
 - 📝 I often write articles on [https://devnishant.me/](https://devnishant.me/)
@@ -32,3 +32,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snishant011&show_icons=true&locale=en" alt="snishant011" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snishant011&" alt="snishant011" /></p>
+<p align="right"><a href="https://app.daily.dev/snishant011"><img src="https://api.daily.dev/devcards/79ff5d25ea034639b8ec5bf38b54009a.png?r=91y" width="400" alt="Nishant Shrestha's Dev Card"/></a></p>
