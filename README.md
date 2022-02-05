@@ -1,3 +1,4 @@
+<p align="center"><a href="https://app.daily.dev/snishant011"><img src="https://api.daily.dev/devcards/79ff5d25ea034639b8ec5bf38b54009a.png?r=91y" width="400" alt="Nishant Shrestha's Dev Card"/></a></p>
 <h1 align="center">Hi 👋, I'm Nishant Shrestha</h1>
 <h3 align="center">A passionate frontend web developer who is passively exploring python too.</h3>
 
@@ -32,4 +33,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snishant011&show_icons=true&locale=en" alt="snishant011" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snishant011&" alt="snishant011" /></p>
-<p align="center"><a href="https://app.daily.dev/snishant011"><img src="https://api.daily.dev/devcards/79ff5d25ea034639b8ec5bf38b54009a.png?r=91y" width="400" alt="Nishant Shrestha's Dev Card"/></a></p>
+
