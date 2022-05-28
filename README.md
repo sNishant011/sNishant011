@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Node JS (MERN Stack)**
 
-- 📝 I often write articles on [https://devnishant.me/](https://devnishant.me/)
+- 📝 I often write articles on [https://devnishant.hashnode.dev/](https://devnishant.hashnode.dev/)
 
 - 💬 Ask me about **html, css, scss, js, python, react**
 
