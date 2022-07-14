@@ -1,4 +1,5 @@
-<p align="center"><a href="https://app.daily.dev/snishant011"><img src="https://api.daily.dev/devcards/79ff5d25ea034639b8ec5bf38b54009a.png?r=9cs" width="400" alt="Nishant Shrestha's Dev Card"/></a></p>
+<a href="https://app.daily.dev/snishant011"><img src="https://api.daily.dev/devcards/79ff5d25ea034639b8ec5bf38b54009a.png?r=2kz" width="400" alt="Nishant Shrestha's Dev Card"/></a>
+
 <h1 align="center">Hi 👋, I'm Nishant Shrestha</h1>
 <h3 align="center">A passionate frontend web developer who is passively exploring python too.</h3>
 
