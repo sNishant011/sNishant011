@@ -1,4 +1,4 @@
-<p align="left"><a href="https://app.daily.dev/snishant011"><img src="https://api.daily.dev/devcards/79ff5d25ea034639b8ec5bf38b54009a.png?r=2kz" width="400" alt="Nishant Shrestha's Dev Card"/></a></p>
+<p align="left"><a href="https://app.daily.dev/snishant011"><img src="https://api.daily.dev/devcards/79ff5d25ea034639b8ec5bf38b54009a.png" width="400" alt="Nishant Shrestha's Dev Card"/></a></p>
 
 # 💫 About Me:
 I am Nishant, aiming to become a JavaScript Engineer, currently a frontend developer. I mostly do React and TypeScript.
