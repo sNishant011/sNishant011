@@ -1,4 +1,6 @@
-<p align="center"><a href="https://app.daily.dev/snishant011"><img src="https://api.daily.dev/devcards/79ff5d25ea034639b8ec5bf38b54009a.png" width="400" alt="Nishant Shrestha's Dev Card"/></a></p>
+<p align="center">
+  <a href="https://app.daily.dev/snishant011"><img src="https://api.daily.dev/devcards/v2/cLoIl1RkxWbxvpkSFDAKz.png?type=default&r=gy4" width="356" alt="Nishant Shrestha's Dev Card"/></a>
+</p>
 
 <br/>
 
